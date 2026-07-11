@@ -15,3 +15,7 @@ What kind of traders, we are targeting:
 - Pattern Day Traders
 - Common Retail Intraday Traders
 - Retail Algorithmic Trading 
+
+<img width="955" height="326" alt="image" src="https://github.com/user-attachments/assets/d38eefce-cc00-4cc9-8d4a-7813c3b99217" />
+
+The above mentioned is the application + business model, we will implement.
