@@ -39,8 +39,8 @@ Machine Learning Models:
 -> Dynamic ML Model 
 
 Price Affecting Strategies:
--> Breakout, Hammer, Engulfing, Inside Bar, Support, Resistence
+-> Breakout, Hammer, Engulfing, Inside Bar, Support, Resistance
 
-<img width="955" height="326" alt="image" src="https://github.com/user-attachments/assets/d38eefce-cc00-4cc9-8d4a-7813c3b99217" />
+
 
 The above mentioned is the application + business model, we will implement.
